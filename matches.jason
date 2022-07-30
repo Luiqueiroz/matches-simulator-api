@@ -1,19 +1,21 @@
 [
   { 
-    "descrição": "Eliminatórias Copa 2022",
-    "Local": {
-      "nome": "Maracanã"
-      "imagem" "TODO"
+    "descricao": "Eliminatórias Copa 2022",
+    "local": {
+      "nome": "Maracanã",
+      "imagem": "TODO"
     },
-     "mandante": {
+    "mandante": {
       "nome": "Brasil",
-      "força": 5,
+      "estrelas": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
-     },
-      "visitante": {
-       "nome": "Argentina",
-       "força": 5,
-       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
-      }
-    } 
+    },
+    "visitante": {
+      "nome": "Argentina",
+      "estrelas": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+    }
+  }
+  …
 ]
+
